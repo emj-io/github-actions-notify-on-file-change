@@ -1,10 +1,8 @@
-This license applies to the entire project. License from the initial
-template is found in LICENSE.github and applies to the code cloned from
-https://github.com/actions/typescript-action .
+This license applies to the template cloned from https://github.com/actions/typescript-action . See LICENSE for the license for the rest of the project.
 
 The MIT License (MIT)
 
-Copyright (c) 2019 Codefied, Inc.
+Copyright (c) 2018 GitHub, Inc. and contributors
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
